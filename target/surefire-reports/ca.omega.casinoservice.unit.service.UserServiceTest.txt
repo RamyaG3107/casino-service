@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ca.omega.casinoservice.unit.service.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.388 s - in ca.omega.casinoservice.unit.service.UserServiceTest

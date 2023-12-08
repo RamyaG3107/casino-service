@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ca.omega.casinoservice.CasinoServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.171 s - in ca.omega.casinoservice.CasinoServiceApplicationTests
